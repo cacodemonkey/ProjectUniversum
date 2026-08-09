@@ -1,29 +1,50 @@
-## Concept
-Project Universum is structured largely around the Universum Series, which follows a simple design principle:
-**Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.**
-
-Additionally, the following ruleset is used for mod selection:
+## Design Concept
+Project Universum is structured largely around the Universum Series of mods.
+These follow a simple design principle: 
+*Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.*
+Each included mechanic is intended to highlight Starfield's unique sense of exploration and discovery.
+I hope you all enjoy.
+## Mod Selection
+The following ruleset is used for mod selection:
 - All changes should be explicit and intentional.
-- There should be no dependency networks for core features. 
-- New gameplay systems are preferred over added content. 
-- The list should be usable (within reason) across multiple platforms.
+- There should be no dependency networks for core features.
+- New gameplay systems are preferred over added content.
+- The list works (within reason) across multiple platforms.
 - Included mods are audited (within reason) for script or plugin errors.
-
+## Requirements
+Shattered Space and Terran Armada are required.
 ## Installation
-Simply install with Wabbajack. 
-It should only take a few minutes.
-The game is ready to play once loaded.
+1. Download (Wabbajack)[https://www.wabbajack.org/].
+2. Create a folder for it (e.g. C:/Wabbajack) and move Wabbajack.exe there.
+3. Open Wabbajack.exe and wait for it to update. 
+4. Go to Settings from the left hand panel and Log In to Nexus Mods.
+5. Go to Browse Lists from the left hand panel and click Install from Disk at the top right of the window.
+6. Find and open Default.Wabbajack.
+7. Pick an Installation Location (e.g. C:/Universum) and hit Install.
+8. Wait for installation to finish. It should only take a few minutes.
+9. Hit Open in File Explorer and double click ModOrganizer.exe.
+10. Enable any desired optional files by enabling them in the left pane.
+11. Start the game via the Run button.
+## Optional Files
+If you are using SFSE, you can select a preset to hide enemy HP bars as well as hit markers.
+### Optional: Alternate Starts
+You can choose between SKK Fast Start New Game or Roleplayers' Alternate Start.
+SKK Fast Start is best for just skipping ahead to the Lodge without playing the Vectera intro.
+Roleplayers' Alternate Start lets you start without a ship, as a Starborn, or anything in between.
+*Note: If you use either alternate start mod, the game sounds will not play properly.*
+Saving, quitting out, and reloading the game will resolve this issue permanently. 
 ## Profiles
-You can switch to the Lite profile if you don't want to use SFSE mods.
+You can switch to the Lite profile if you don't want to use any SFSE mods.
+Saves made in each profile are safe to use with each other.
 ## Configuration
 Many included mods have added Gameplay Options which can be adjusted to your preferences.
 All of them can freely be used, no specific set of configurations is required by the list.
 If you want to change or revert the display fonts, either reinstall or remove rbtFONTS.
 ## Guidance
-Many included mods add entries to the Help Menu, which is accessible via the Pause menu.
+Many included mods add entries to the Help Menu (accessible via the Pause/Escape menu).
 These provide guidance on new features like Fuel Usage, Suit Seal, Needs, and Port Dues.
 Check them out first if you have any questions about new mechanics.
-## Gameplay Changes
+## Modifications
 If you are wondering if a change from the vanilla game is intentional, please refer to this list.
 ### Novel Mechanics
 - Religious Traits feature new gameplay effects centered around Tenets that grant bonuses when followed. *Adherent, rbt*
@@ -82,7 +103,7 @@ Some gameplay option selections and balance adjustments have been applied via a 
 - Less Creepy Crowd NPCs: Does what it says on the tin.
 - Luma: Fix the artificially raised black levels in vanilla, and add proper HDR support.
 ### SFSE Engine Fixes
-The following changes are made from default settings if the Optional Mods are installed.
+The following changes are made from the default settings:
 - Weapons are not automatically reloaded when running empty.
 - Firing an empty weapon will not warn you about not having ammo.
 - Companions will wait a few seconds to comment on you becoming overencumbered.
@@ -90,8 +111,9 @@ The following changes are made from default settings if the Optional Mods are in
 - XP is unaffected by Gameplay Option selections.
 - Exiting menus is slightly faster.
 - Weapons can be used with the scanner open.
+Disabling *Universum SFSE Engine Fixes Config* will revert these changes.
 ## Feedback/Discussion
 Let me know if you have any questions or feedback in the comments.
-You can also [join the Discord](https://discord.gg/YQHjkGd89x) and check out the Universum Project channels.
+You can also [join the Discord](https://discord.gg/YQHjkGd89x) and check out the Project Universum channels.
 ## Technical Data
 The list is designed for and tested on the latest Steam version of Starfield (1.16.244.0 - June 11 2026).
