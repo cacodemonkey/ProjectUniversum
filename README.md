@@ -1,8 +1,8 @@
 ## Design Concept
-Project Universum is structured largely around the Universum Series of mods.
-These follow a simple design principle: 
-*Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.*
-Each included mechanic is intended to highlight Starfield's unique sense of exploration and discovery.
+Project Universum is structured largely around the Universum Series of mods.\
+These follow a simple design principle: \
+*Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.*\
+Each included mechanic is intended to highlight Starfield's unique sense of exploration and discovery.\
 I hope you all enjoy.
 ## Mod Selection
 The following ruleset is used for mod selection:
