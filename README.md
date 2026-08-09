@@ -1,5 +1,3 @@
-# ProjectUniversum
-A wabbajack modlist for Starfield.
 ## Concept
 The Universum Project is structured largely around the Universum Series, which follows a simple design principle:
 **Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.**
@@ -12,11 +10,9 @@ Additionally, the following ruleset is used for mod selection:
 - Included mods are audited (within reason) for script or plugin errors.
 
 ## Installation
-Simply install with Vortex. It should only take a few minutes.
-Once installation is complete, click Deploy Mods at the top of the window.
-### Optional Mods
-Choosing to install the Optional mods will install a set of SFSE mods, which are only usable on Steam.
-If the Optional Mods are not installed, the list is valid for any game version greater than 1.16.236.
+Simply install with Wabbajack. 
+It should only take a few minutes.
+The game is ready to play once loaded.
 ## Configuration
 Many included mods have added Gameplay Options which can be adjusted to your preferences.
 All of them can freely be used, no specific set of configurations is required by the list.
@@ -96,4 +92,4 @@ The following changes are made from default settings if the Optional Mods are in
 Let me know if you have any questions or feedback in the comments.
 You can also [join the Discord](https://discord.gg/YQHjkGd89x) and check out the Universum Project channels.
 ## Technical Data
-The list is designed for and tested on the latest Steam version of Starfield (1.16.244.0 -June 11 2026).
+The list is designed for and tested on the latest Steam version of Starfield (1.16.244.0 - June 11 2026).
