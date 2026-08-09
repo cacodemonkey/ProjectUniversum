@@ -13,6 +13,8 @@ Additionally, the following ruleset is used for mod selection:
 Simply install with Wabbajack. 
 It should only take a few minutes.
 The game is ready to play once loaded.
+## Profiles
+You can switch to the Lite profile if you don't want to use SFSE mods.
 ## Configuration
 Many included mods have added Gameplay Options which can be adjusted to your preferences.
 All of them can freely be used, no specific set of configurations is required by the list.
@@ -88,5 +90,8 @@ The following changes are made from default settings if the Optional Mods are in
 - XP is unaffected by Gameplay Option selections.
 - Exiting menus is slightly faster.
 - Weapons can be used with the scanner open.
+## Feedback/Discussion
+Let me know if you have any questions or feedback in the comments.
+You can also [join the Discord](https://discord.gg/YQHjkGd89x) and check out the Universum Project channels.
 ## Technical Data
 The list is designed for and tested on the latest Steam version of Starfield (1.16.244.0 - June 11 2026).
