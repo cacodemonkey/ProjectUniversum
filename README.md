@@ -1,5 +1,5 @@
 ## Concept
-The Universum Project is structured largely around the Universum Series, which follows a simple design principle:
+Project Universum is structured largely around the Universum Series, which follows a simple design principle:
 **Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.**
 
 Additionally, the following ruleset is used for mod selection:
