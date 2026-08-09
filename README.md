@@ -14,7 +14,7 @@ The following ruleset is used for mod selection:
 ## Requirements
 Shattered Space and Terran Armada are required.
 ## Installation
-1. Download (Wabbajack)[https://www.wabbajack.org/].
+1. Download [Wabbajack](https://www.wabbajack.org/).
 2. Create a folder for it (e.g. C:/Wabbajack) and move Wabbajack.exe there.
 3. Open Wabbajack.exe and wait for it to update. 
 4. Go to Settings from the left hand panel and Log In to Nexus Mods.
@@ -63,7 +63,7 @@ If you are wondering if a change from the vanilla game is intentional, please re
 - Player walk and run speeds are adjusted. *Player Speed Revised, Samuel181093*
 - Some Traits now scale with player attributes. *Trait Scaling, Keukotis*
 - The new Synthetic Heart trait is available. *Trait Scaling, Keukotis*
-- Player skill descriptions are clearer and their effects are applied more consistently. *Skill Fixes, Argonil *
+- Player skill descriptions are clearer and their effects are applied more consistently. *Skill Fixes, Argonil*
 - O2 and CO2 regeneration is reduced when your suit is sealed, and strenuous actions cause slight CO2 accumulation. *Atmo, rbt*
 - Environmental Resistance caps are raised to 95%, and Lung Damage is not gained when wearing a sealed spacesuit. *Environmental Resistance Improved, Kilonova24*
 - Enemy health values are more realistic and consistent. *NPC Health Overhaul, Kilonova24*
