@@ -21,18 +21,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://github.com/cacodemonkey/ProjectUniversum/blob/main/ProjectUniversum.webp",
       "readme": "https://github.com/cacodemonkey/ProjectUniversum/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_c4143be9-3f7d-46f0-b393-316fc73681c5",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_128673a4-ddd4-494e-90ac-ec5049833344",
       "machineURL": "ProjectUniversum",
       "discordURL": "https://discord.gg/YQHjkGd89x"
     },
     "download_metadata": {
-		"Hash":"XeJdh0Oxg9k=",
-		"Size":650057,
-		"NumberOfArchives":51,
-		"SizeOfArchives":395498068,
-		"NumberOfInstalledFiles":2310,
-		"SizeOfInstalledFiles":903739118,
-		"TotalSize":1299237186
+		"Hash":"GMxtJSBelAU=",
+		"Size":653094,
+		"NumberOfArchives":54,
+		"SizeOfArchives":537937888,
+		"NumberOfInstalledFiles":2323,
+		"SizeOfInstalledFiles":1113875606,
+		"TotalSize":1651813494
 	},
     "version": "1.0.0"
   }
