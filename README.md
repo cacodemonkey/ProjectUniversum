@@ -28,9 +28,9 @@ Shattered Space and Terran Armada are required.
 ## Optional Files
 If you are using SFSE, you can select a preset to hide enemy HP bars as well as hit markers.
 ### Optional: Alternate Starts
-You can choose between SKK Fast Start New Game or Roleplayers' Alternate Start.\
+You can choose between SKK Fast Start New Game or Roleplayers' Alternate Start.
 - SKK Fast Start is best for just skipping ahead to the Lodge without playing the Vectera intro.
-- Roleplayers' Alternate Start lets you start without a ship, as a Starborn, or anything in between.
+- Roleplayers' Alternate Start lets you start without a ship, as a Starborn, or anything in between.\
 *Note: If you use either alternate start mod, the game sounds will not play properly.*\
 Saving, quitting out, and reloading the game will resolve this issue permanently. 
 ## Profiles
