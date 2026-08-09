@@ -28,21 +28,21 @@ Shattered Space and Terran Armada are required.
 ## Optional Files
 If you are using SFSE, you can select a preset to hide enemy HP bars as well as hit markers.
 ### Optional: Alternate Starts
-You can choose between SKK Fast Start New Game or Roleplayers' Alternate Start.
-SKK Fast Start is best for just skipping ahead to the Lodge without playing the Vectera intro.
-Roleplayers' Alternate Start lets you start without a ship, as a Starborn, or anything in between.
-*Note: If you use either alternate start mod, the game sounds will not play properly.*
+You can choose between SKK Fast Start New Game or Roleplayers' Alternate Start.\
+- SKK Fast Start is best for just skipping ahead to the Lodge without playing the Vectera intro.
+- Roleplayers' Alternate Start lets you start without a ship, as a Starborn, or anything in between.
+*Note: If you use either alternate start mod, the game sounds will not play properly.*\
 Saving, quitting out, and reloading the game will resolve this issue permanently. 
 ## Profiles
-You can switch to the Lite profile if you don't want to use any SFSE mods.
+You can switch to the Lite profile if you don't want to use any SFSE mods.\
 Saves made in each profile are safe to use with each other.
 ## Configuration
-Many included mods have added Gameplay Options which can be adjusted to your preferences.
-All of them can freely be used, no specific set of configurations is required by the list.
+Many included mods have added Gameplay Options which can be adjusted to your preferences.\
+All of them can freely be used, no specific set of configurations is required by the list.\
 If you want to change or revert the display fonts, either reinstall or remove rbtFONTS.
 ## Guidance
-Many included mods add entries to the Help Menu (accessible via the Pause/Escape menu).
-These provide guidance on new features like Fuel Usage, Suit Seal, Needs, and Port Dues.
+Many included mods add entries to the Help Menu (accessible via the Pause/Escape menu).\
+These provide guidance on new features like Fuel Usage, Suit Seal, Needs, and Port Dues.\
 Check them out first if you have any questions about new mechanics.
 ## Modifications
 If you are wondering if a change from the vanilla game is intentional, please refer to this list.
@@ -113,7 +113,7 @@ The following changes are made from the default settings:
 - Weapons can be used with the scanner open.
 Disabling *Universum SFSE Engine Fixes Config* will revert these changes.
 ## Feedback/Discussion
-Let me know if you have any questions or feedback in the comments.
+Let me know if you have any questions or feedback in the comments.\
 You can also [join the Discord](https://discord.gg/YQHjkGd89x) and check out the Project Universum channels.
 ## Technical Data
 The list is designed for and tested on the latest Steam version of Starfield (1.16.244.0 - June 11 2026).
