@@ -3,7 +3,6 @@ Project Universum is structured largely around the Universum Series of mods.\
 These follow a simple design principle: \
 *Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.*\
 Each included mechanic is intended to highlight Starfield's unique sense of exploration and discovery.\
-I hope you all enjoy.
 ## Mod Selection
 The following ruleset is used for mod selection:
 - All changes should be explicit and intentional.
@@ -31,7 +30,7 @@ If you are using SFSE, you can select a preset to hide enemy HP bars as well as 
 You can choose between SKK Fast Start New Game or Roleplayers' Alternate Start.
 - SKK Fast Start is best for just skipping ahead to the Lodge without playing the Vectera intro.
 - Roleplayers' Alternate Start lets you start without a ship, as a Starborn, or anything in between.\
-*Note: If you use either alternate start mod, the game sounds will not play properly.*\
+*Note: If you use either alternate start mod, the game sounds will not play properly after starting a game.*\
 Saving, quitting out, and reloading the game will resolve this issue permanently. 
 ## Profiles
 You can switch to the Lite profile if you don't want to use any SFSE mods.\
@@ -56,7 +55,7 @@ If you are wondering if a change from the vanilla game is intentional, please re
 - Your spacesuit can be configured to be hidden or shown based on more conditions. *Configurable Spacesuit Auto-Hide, rbt*
 - Boost Packs cannot be used unless they are visible. *Magic Boost Disabler, rbt*
 ### Economy
-- Port Dues are withdrawn at each spaceport you land at. Failure to pay incurs a bounty. Harbor, rbt
+- Port Dues are withdrawn at each spaceport you land at. Failure to pay incurs a bounty. *Harbor, rbt*
 - Mission and quest rewards are increased and have more variance. *Spacefaring Economy, rbt*
 - Ship Part, resource and item values are rebalanced to enhance progression.
 ### Balance
@@ -112,8 +111,5 @@ The following changes are made from the default settings:
 - Exiting menus is slightly faster.
 - Weapons can be used with the scanner open.
 Disabling *Universum SFSE Engine Fixes Config* will revert these changes.
-## Feedback/Discussion
-Let me know if you have any questions or feedback in the comments.\
-You can also [join the Discord](https://discord.gg/YQHjkGd89x) and check out the Project Universum channels.
 ## Technical Data
 The list is designed for and tested on the latest Steam version of Starfield (1.16.244.0 - June 11 2026).
