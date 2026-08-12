@@ -26,7 +26,12 @@
       "machineURL": "ProjectUniversum",
       "discordURL": "https://discord.gg/YQHjkGd89x",
       "websiteURL": "",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "492533",
+        "slug": "p2dfgs",
+        "domainName": "starfield",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "IjUoJA9l4UY=",
