@@ -1,39 +1,45 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Project Universum",
-    "description": "A gameplay-focused, Vanilla+ overhaul for Starfield.",
+    "description": "A gameplay-focused, Vanilla\u002B overhaul for Starfield.",
     "author": "rbt",
     "maintainers": [
       "github/cacodemonkey"
     ],
     "game": "starfield",
+    "official": false,
     "tags": [
       "SFW",
       "Steam",
-	  "DLC Required",
-      "Vanilla+"
+      "DLC Required",
+      "Vanilla\u002B"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": false,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/cacodemonkey/ProjectUniversum/main/ProjectUniversum.webp",
       "readme": "https://github.com/cacodemonkey/ProjectUniversum/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Default.wabbajack_128673a4-ddd4-494e-90ac-ec5049833344",
+      "download": "https://authored-files.wabbajack.org/Default.wabbajack_69a26b6e-35a2-4e89-a6f4-2ed36d821509",
       "machineURL": "ProjectUniversum",
-      "discordURL": "https://discord.gg/YQHjkGd89x"
+      "discordURL": "https://discord.gg/YQHjkGd89x",
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-		"Hash":"GMxtJSBelAU=",
-		"Size":653094,
-		"NumberOfArchives":54,
-		"SizeOfArchives":537937888,
-		"NumberOfInstalledFiles":2323,
-		"SizeOfInstalledFiles":1113875606,
-		"TotalSize":1651813494
-	},
-    "version": "1.0.0"
+      "Hash": "IjUoJA9l4UY=",
+      "Size": 680474,
+      "NumberOfArchives": 74,
+      "SizeOfArchives": 565939688,
+      "NumberOfInstalledFiles": 2404,
+      "SizeOfInstalledFiles": 1186037518,
+      "TotalSize": 1751977206
+    },
+    "version": "1.0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2026-08-12T19:25:53.2706098Z",
+    "repositoryName": ""
   }
 ]
