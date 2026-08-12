@@ -116,6 +116,7 @@ The following changes are made from the default settings:
 - XP is unaffected by Gameplay Option selections.
 - Exiting menus is slightly faster.
 - Weapons can be used with the scanner open.
+
 Disabling *Universum SFSE Engine Fixes Config* will revert these changes.
 ## Technical Data
 The list is designed for and tested on the latest Steam version of Starfield (1.16.244.0 - June 11 2026).
