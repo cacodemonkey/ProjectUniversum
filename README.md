@@ -2,7 +2,7 @@
 Project Universum is structured largely around the Universum Series of mods.\
 These follow a simple design principle: \
 *Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.*\
-Each included mechanic is intended to highlight Starfield's unique sense of exploration and discovery.\
+Each included mechanic is intended to highlight Starfield's unique sense of exploration and discovery.
 ## Gamefeel
 This is a Vanilla+ modlist.\
 If you are tired of playing Starfield, and want a fresh new experience with a ton of new content - it's probably not a good fit for you.\
