@@ -3,7 +3,14 @@ Project Universum is structured largely around the Universum Series of mods.\
 These follow a simple design principle: \
 *Gameplay should be state-driven and dynamic, where player actions are responded to with clear and immediate feedback.*\
 Each included mechanic is intended to highlight Starfield's unique sense of exploration and discovery.\
-I hope you all enjoy.
+## Gamefeel
+This is a Vanilla+ modlist.\
+If you are tired of playing Starfield, and want a fresh new experience with a ton of new content - it's probably not a good fit for you.\
+Similarly, if you're a hardcore vanilla purist and *just* want to play the game with some bugfixes - this will have some subjective things you may or may not enjoy.
+
+Vanilla+ means Project Universum sits somewhere in the middle.\
+Each change is intentional, and while some are drastic, every single one has been carefully considered for whether it aligns with my interpretation of the game's fundamental design.\
+If this sounds interesting to you, I encourage you to check it out. 
 ## Mod Selection
 The following ruleset is used for mod selection:
 - All changes should be explicit and intentional.
